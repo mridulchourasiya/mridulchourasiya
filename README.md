@@ -12,10 +12,11 @@
 
 
 🌐 Portfolio:
+![mern style](https://github.com/mridulchourasiya/mridulchourasiya/assets/99160348/d22657aa-c2c5-44db-970d-6073674913e5)
 
-[![MERN Stack](url_to_mern_stack_icon)](https://www.yourlink.com)
-[![Java](url_to_java_icon)](https://www.yourlink.com)
-[![Cybersecurity](url_to_cybersecurity_icon)](https://www.yourlink.com)
-[![College Logo](url_to_college_logo)](https://www.yourlink.com)
+![java image](https://github.com/mridulchourasiya/mridulchourasiya/assets/99160348/b24708fa-4340-45c8-b357-5d3da0c162a9)
+
+![cyber image](https://github.com/mridulchourasiya/mridulchourasiya/assets/99160348/c423d338-184b-4875-97e9-fee8ff6c88ac)
+
 
 Looking forward to exploring the exciting realms of tech and security together!
