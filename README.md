@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/99160348?v=4" align="center" style="width: 50%" />
-</div>  
-  
-
 ### **<div align="center">I'm Mridul 👨‍💻  , a full-time full-stack freelance developer and DevOps 🚀
 Currently, I'm on the lookout for exciting opportunities to push boundaries and make an impact. Whether it's building cutting-edge web applications, optimizing deployment pipelines, or architecting scalable cloud solutions, I thrive on the dynamic challenges of the tech world.
 
