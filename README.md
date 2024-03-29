@@ -1,4 +1,4 @@
-### **<div align="center">I'm Mridul 👨‍💻  , a full-time full-stack freelance developer and DevOps 🚀
+### **<div align="center">I'm Mridul 👨‍💻  , a full-time full-stack freelance developer and DevOps Engineer 🚀
 Currently, I'm on the lookout for exciting opportunities to push boundaries and make an impact. Whether it's building cutting-edge web applications, optimizing deployment pipelines, or architecting scalable cloud solutions, I thrive on the dynamic challenges of the tech world.
 
 With expertise in a diverse range of technologies and frameworks, from React and Node.js on the frontend to Docker and Kubernetes in the DevOps realm, I'm ready to tackle any project head-on.
