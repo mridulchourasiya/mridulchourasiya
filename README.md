@@ -1,4 +1,6 @@
-### **<div align="center">I'm Mridul 👨‍💻  , a full-time full-stack freelance developer and DevOps Engineer 🚀
+### 
+
+<div align="center">I'm Mridul 👨‍💻  , a full-time full-stack freelance developer and DevOps Engineer 🚀
 Currently, I'm on the lookout for exciting opportunities to push boundaries and make an impact. Whether it's building cutting-edge web applications, optimizing deployment pipelines, or architecting scalable cloud solutions, I thrive on the dynamic challenges of the tech world.
 
 With expertise in a diverse range of technologies and frameworks, from React and Node.js on the frontend to Docker and Kubernetes in the DevOps realm, I'm ready to tackle any project head-on.
@@ -107,14 +109,7 @@ Let's collaborate and elevate your digital presence to new heights! 💻✨ </di
 
 ## Recent Blog Posts  
   
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
+  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mridulchourasiya&&style=flat-square" align="center" />
 </div>  
   
